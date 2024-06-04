@@ -1,8 +1,9 @@
 # Prerequisites
-Please make sure you have CUDA installed on your device
+* Please make sure you have CUDA installed on your device
+* Link to model weights: https://drive.google.com/file/d/1qJeTQM0VT1EH9vVKDstEFvW5UeXGGJOa/view?usp=sharing
 
 # Dataset
-See https://tbrain.trendmicro.com.tw/Competitions/Details/35
+* See https://tbrain.trendmicro.com.tw/Competitions/Details/35
 
 # Directory Structure (Notice the directory names)
 ```
